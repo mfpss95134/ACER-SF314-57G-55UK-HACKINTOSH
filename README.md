@@ -47,13 +47,17 @@ Without these settings / modifications, your device may be unstable even become 
 // Press `Ctrl + S` in BIOS to show hidden menu.
 
 - `CFG Lock: OFF`
-- `S0 Idle: OFF`
+- `Low Power S0 Idle Capability: OFF`
 <br>
 
 ## Screen shots
 <br>
 
-## References
+## Reference
+- <https://zhuanlan.zhihu.com/p/266400995>
+- <https://blog.csdn.net/weixin_42525211/article/details/112126322>
+- <https://github.com/m0d16l14n1/icelake-hackintosh>
+- <https://github.com/KatLantyss/Acer-Swift-IceLake-Hackintosh-OpenCore>
 <br>
 
 ## Credits
