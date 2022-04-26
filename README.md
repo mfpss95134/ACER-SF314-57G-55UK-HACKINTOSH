@@ -22,7 +22,7 @@ Most parts are working well, except the following.
 
 | Component | Status | Description |
 |:---|:---|:---|
-| AirDrop | Not working | Not compatible with intel WiFi / BT adapters. |
+| AirDrop | Not working | Not compatible with intel wireless adapters. |
 | Nvidia GeForce MX350 | Not working | Not suppoerted by macOS. |
 | FingerPrint | Not working | Not suppoerted by macOS. |
 | Internal Mic | Not working | The internal mic adopts `Intel Smart Sound Technology` which is not supported by AppleALC due to brand-new structure.<br>There is temporarily no solution for this, same as 聯想小新13. |
