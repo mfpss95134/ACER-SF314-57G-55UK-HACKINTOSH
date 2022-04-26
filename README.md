@@ -24,7 +24,7 @@ Hello visitors! This is a repository of building Hackintosh on Acer SF-314-57G-5
 
 ## Supported Versions
 - macOS Big Sur
-- macOS Monterey (Need to replace itlwm on your own.)
+- macOS Monterey (itlwm needs to be replaced on your own.)
 <br>
 
 ## Known issues
