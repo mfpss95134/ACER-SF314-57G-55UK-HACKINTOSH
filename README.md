@@ -60,7 +60,7 @@ Most parts are working correctly, except the following.
   - Run `WDFInst.exe` as administrator, then run `H2OUVE-W-GUIx64.exe`.
   - Click on `File` -> `Load runtime` -> `Variable`, then locate to `0x28` in Setup.
   - Change the default value from `0x1`(Enabled) to `0x0`(Disabled).
-  - - ![image](https://github.com/mfpss95134/ACER-SF314-57G-55UK-HACKINTOSH/blob/main/IMAGEs/S0_IDLE.jpeg)
+  - ![image](https://github.com/mfpss95134/ACER-SF314-57G-55UK-HACKINTOSH/blob/main/IMAGEs/S0_IDLE.jpeg)
 <br>
 
 ## Screen shots
