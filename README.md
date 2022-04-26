@@ -62,6 +62,7 @@ Incorrect modification may brick you device, please be CAREFUL when operating.
 ## Screenshots
 <div align="center">
 <img src="https://raw.githubusercontent.com/mfpss95134/ACER-SF314-57G-55UK-HACKINTOSH/main/IMAGEs/Screenshot_01.jpg">
+<br>
 <img src="https://raw.githubusercontent.com/mfpss95134/ACER-SF314-57G-55UK-HACKINTOSH/main/IMAGEs/Screenshot_02.jpg">
 <img src="https://raw.githubusercontent.com/mfpss95134/ACER-SF314-57G-55UK-HACKINTOSH/main/IMAGEs/Screenshot_03.jpg">
 <img src="https://raw.githubusercontent.com/mfpss95134/ACER-SF314-57G-55UK-HACKINTOSH/main/IMAGEs/Screenshot_04.jpg">
