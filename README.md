@@ -41,8 +41,6 @@ Most parts are working correctly, except the following.
 <br>
 
 ## Recommened BIOS settings / modifications
-> Without these settings / modifications, your device may be unstable even become unbootable.
-
 - `Secure Boot: OFF`
 - `SATA mode: AHCI`
   - Boot into BIOS and switch to Main tab.
