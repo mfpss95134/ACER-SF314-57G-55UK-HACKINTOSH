@@ -9,7 +9,7 @@
 | SSD | WD SN520 512GB |
 | Graphic Cards | Intel IceLake UHD Graphics<br>Nvidia GeForce MX350 |
 | WiFi / BT | Intel Wireless AX201 CNVi |
-| BIOS Version | v1.18 |
+| BIOS ersion | v1.18 |
 <br>
 
 ## Supported Versions
