@@ -1,0 +1,14 @@
+GUI process started
+Release BIOS data information
+Initialize driver
+IHIS Table Not Found
+Initial BIOS data information
+Init BIOS runtime variable object from IHISI.
+Open Variable editor
+Open Setup editor
+Check SCU password
+Init IFR package
+Release IFR package
+Open Variable editor
+Release BIOS data information
+Release BIOS variable object.
