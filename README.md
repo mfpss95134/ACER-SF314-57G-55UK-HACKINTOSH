@@ -1,7 +1,7 @@
 # ACER-SF314-57G-55UK-HACKINTOSH
 
 ## Preliminary
-Hello visitors! This is a repository of building Hackintosh on Acer SF-314-57G-55UK. If your model is same or similar(mainly icelake laptops form ACER) to mine, it's welcome for you to grab a copy of my EFI and make some modification to fit it into your device. Please remember to replace the SMBIOS inside config.plist with ones of your own.<br>Enjoy~
+Hello visitors! This is a repository of building Hackintosh on Acer SF-314-57G-55UK. If your model is same or similar(mainly Acer Swift icelake laptops) to mine, it's welcome for you to grab a copy of my EFI and make some modification to fit it into your device. Please remember to replace the SMBIOS inside config.plist with ones of your own.<br>Enjoy~
 <br>
 <br>
 
@@ -25,7 +25,9 @@ Hello visitors! This is a repository of building Hackintosh on Acer SF-314-57G-5
 ## Known issues
 | Component | Status | Description |
 |:---|:---|:---|
+| AirDrop | Not working | Not compatible with intel WiFi / BT adapters. |
 | Nvidia GeForce MX350 | Not working | Not suppoerted by macOS. |
+| FingerPrint | Not working | Not suppoerted by macOS. |
 | Internal Mic | Not working | There is temporarily no solution for this, same as 聯想小新13. |
 | Thunderbolt 3 | Partial working | This is not fully tested because I have no TB3 devices by my side. <br>However, it's known that if not rebooting from windows, system will crash when connecting external display through TB3 port. |
 | HDMI | Not tested | Not tested, but there is a high probability of not work. |
