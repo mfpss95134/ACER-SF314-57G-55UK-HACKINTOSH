@@ -37,7 +37,7 @@ Most parts are working correctly, except the following.
 | FingerPrint | Not working | Not suppoerted by macOS. |
 | Internal Mic | Not working | There is temporarily no solution for this, same as 聯想小新13. |
 | Thunderbolt 3 | Partial working | This is not fully tested because I have no TB3 devices by my side. <br>However, it's known that if not rebooting from windows, system will crash when connecting external display through TB3 port. |
-| HDMI | Not tested | Not tested, but there is a high probability of not work. |
+| HDMI | Not tested | Not tested, but there is a high probability of not working. |
 <br>
 
 ## Recommened BIOS settings / modifications
@@ -52,12 +52,14 @@ Most parts are working correctly, except the following.
   - This is a hidden item in BIOS, so we need to change its corresponding value by **H2OUVE**.
   - Follow the instruction below.
   - Run `WDFInst.exe` as administrator, then run `H2OUVE-W-GUIx64.exe`.
+  - Click on `File` -> `Load runtime` -> `Variable`, then locate to `0x43` in CpuSetup.
   - Change the default value from `0x1`(Enabled) to `0x0`(Disabled).
 - `Low Power S0 Idle Capability: OFF`
   - This is item MUST be off to enable S3 sleep functionality.
   - This is a hidden item in BIOS, so we need to change its corresponding value by **H2OUVE**.
   - Follow the instruction below.
   - Run `WDFInst.exe` as administrator, then run `H2OUVE-W-GUIx64.exe`.
+  Click on `File` -> `Load runtime` -> `Variable`, then locate to `0x28` in Setup.
   - Change the default value from `0x1`(Enabled) to `0x0`(Disabled).
 <br>
 
