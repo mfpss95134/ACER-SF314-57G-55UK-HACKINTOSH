@@ -52,6 +52,7 @@ Most parts are working correctly, except the following.
   - Run `WDFInst.exe` as administrator, then run `H2OUVE-W-GUIx64.exe`.
   - Click on `File` -> `Load runtime` -> `Variable`, then locate to `0x43` in CpuSetup.
   - Change the default value from `0x1`(Enabled) to `0x0`(Disabled).
+  - ![image](https://github.com/mfpss95134/ACER-SF314-57G-55UK-HACKINTOSH/blob/main/IMAGEs/CFG_LOCK.jpeg)
 - `Low Power S0 Idle Capability: OFF`
   - This is item MUST be off to enable S3 sleep functionality.
   - This is a hidden item in BIOS, so we need to change its corresponding value by **H2OUVE**.
@@ -59,6 +60,7 @@ Most parts are working correctly, except the following.
   - Run `WDFInst.exe` as administrator, then run `H2OUVE-W-GUIx64.exe`.
   - Click on `File` -> `Load runtime` -> `Variable`, then locate to `0x28` in Setup.
   - Change the default value from `0x1`(Enabled) to `0x0`(Disabled).
+  - - ![image](https://github.com/mfpss95134/ACER-SF314-57G-55UK-HACKINTOSH/blob/main/IMAGEs/S0_IDLE.jpeg)
 <br>
 
 ## Screen shots
