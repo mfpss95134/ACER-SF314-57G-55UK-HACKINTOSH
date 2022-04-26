@@ -43,7 +43,7 @@ Incorrect modification may brick you device, please be CAREFUL when operating.
   - It's unbootable without setting this to AHCI.
   - Boot into BIOS and switch to Main tab.
   - Press `Ctrl + S`, then the hidden item will show up.
-  - Toggle the option.
+  - Toggle the option to `AHCI`.
 - `CFG Lock: Disabled`
   - This is a hidden item in BIOS, so we need to change its corresponding value by **H2OUVE**.
   - Follow the instruction below.
@@ -56,7 +56,7 @@ Incorrect modification may brick you device, please be CAREFUL when operating.
   - Follow the instruction below.
   - Run `WDFInst.exe` as administrator, then run `H2OUVE-W-GUIx64.exe`.
   - Click on `File` -> `Load runtime` -> `Variable`, then locate to `0x28` in Setup.
-  - Change the default value from `0x1`(Enabled) to `0x0`(Disabled).<br>![image](https://raw.githubusercontent.com/mfpss95134/ACER-SF314-57G-55UK-HACKINTOSH/main/IMAGEs/S0_IDLE.jpeg)`
+  - Change the default value from `0x1`(Enabled) to `0x0`(Disabled).<br>![image](https://raw.githubusercontent.com/mfpss95134/ACER-SF314-57G-55UK-HACKINTOSH/main/IMAGEs/S0_IDLE.jpeg)
 <br>
 
 ## Screenshots
