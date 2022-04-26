@@ -1,15 +1,5 @@
 # ACER-SF314-57G-55UK-HACKINTOSH
 
-## Preliminary
-Hello visitors! This is a repository of building Hackintosh on Acer SF-314-57G-55UK. If your model is same or similar(mainly Acer Swift series of icelake platform) to mine, it's welcome for you to grab a copy of my EFI and make some modification to fit it into your device. Please remember to replace the SMBIOS inside config.plist with ones of your own.<br>Enjoy~
-<br>
-<br>
-
-## Disclaimer
-**I AM NOT RESPONSIBLE FOR BRICKED DEVICES. DON'T BLAME ON ME FOR ANY MALFUNCTION.**<br>**REMEBER TO BACK UP EVERYTHING BEFORE APPLYING ANY MODIFICATION ONTO YOUR DEVICE.**<br>**SOME MODIFICATION MAY COMPROMISE YOUR HARDWARE / SOFTWARE, PLEASE BE AWARE OF WHAT YOU ARE DOING.**
-<br>
-<br>
-
 ## Specifications
 | Component | Details |
 |:---:|:---:|
