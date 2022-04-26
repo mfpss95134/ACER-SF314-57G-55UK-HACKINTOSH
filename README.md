@@ -26,7 +26,7 @@ I am not responsible for bricked devices. Dont blame on me for any malfunction.<
 | Component | Status | Description |
 |:---|:---|:---|
 | Nvidia GeForce MX350 | Not working | Not suppoerted by macOS. |
-| Internal Mic | Not working | Temporarily no solution for this, same as 聯想小新13. |
+| Internal Mic | Not working | There is temporarily no solution for this, same as 聯想小新13. |
 | Thunderbolt 3 | Partial working | This is not fully tested because I have no TB3 devices by my side. <br>However, it's known that if not rebooting from windows, system will crash when connecting external display through TB3 port. |
 | HDMI | Not tested | Not tested, but there is a high probability of not work. |
 <br>
