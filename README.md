@@ -18,7 +18,7 @@
 <br>
 
 ## Known issues
-Most parts are working correctly, except the following.
+Most parts are working well, except the following.
 
 | Component | Status | Description |
 |:---|:---|:---|
@@ -32,12 +32,12 @@ Most parts are working correctly, except the following.
 
 ## Recommened BIOS settings / modifications
 - `Secure Boot: Disabled`
-  - It's unbootable without setting this to disabled.
+  - It's unbootable without setting this to `Disabled`.
 - `Fast Boot: Disabled`
   - This item may lead to unstability.
   - I suggest you to turn this OFF. Trust me.
 - `VT-d: Disabled`
-  - Dortania's guide suggests this to be disabled.
+  - Dortania's guide suggests setting this to `Disabled`.
 - `SATA mode: AHCI`
   - It's unbootable without setting this to AHCI.
   - Boot into BIOS and switch to Main tab.
