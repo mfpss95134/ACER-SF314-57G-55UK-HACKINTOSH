@@ -59,7 +59,7 @@ Most parts are working correctly, except the following.
   - This is a hidden item in BIOS, so we need to change its corresponding value by **H2OUVE**.
   - Follow the instruction below.
   - Run `WDFInst.exe` as administrator, then run `H2OUVE-W-GUIx64.exe`.
-  Click on `File` -> `Load runtime` -> `Variable`, then locate to `0x28` in Setup.
+  - Click on `File` -> `Load runtime` -> `Variable`, then locate to `0x28` in Setup.
   - Change the default value from `0x1`(Enabled) to `0x0`(Disabled).
 <br>
 
