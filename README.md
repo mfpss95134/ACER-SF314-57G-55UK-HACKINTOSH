@@ -22,7 +22,14 @@ Hello visitors! This is a repository of building Hackintosh on Acer SF-314-57G-5
 | BIOS Version | 1.18 |
 <br>
 
+## Supported Versions
+- macOS Big Sur
+- macOS Monterey (Need to replace itlwm on your own.)
+<br>
+
 ## Known issues
+Most parts are working correctly, except the following.
+
 | Component | Status | Description |
 |:---|:---|:---|
 | AirDrop | Not working | Not compatible with intel WiFi / BT adapters. |
@@ -34,10 +41,13 @@ Hello visitors! This is a repository of building Hackintosh on Acer SF-314-57G-5
 <br>
 
 ## Recommened BIOS settings / modifications
-* `Secure Boot: OFF`
-* `SATA mode: AHCI`
-* `CFG Lock: OFF`
-* `S0 Idle: OFF`
+Without these settings / modifications, your device may be unstable even become unbootable.
+- `Secure Boot: OFF`
+- `SATA mode: AHCI`
+// Press `Ctrl + S` in BIOS to show hidden menu.
+
+- `CFG Lock: OFF`
+- `S0 Idle: OFF`
 <br>
 
 ## Screen shots
@@ -47,4 +57,7 @@ Hello visitors! This is a repository of building Hackintosh on Acer SF-314-57G-5
 <br>
 
 ## Credits
-<br>
+- [**Apple**](https://www.apple.com/tw/) for the macOS.
+- [**Acidanthera**](https://github.com/acidanthera) for awesome kexts and first-class support for hackintosh enthusiasts.
+- [**Dortania**](https://github.com/dortania) for the great guides.
+- [**KatLantyss**](https://github.com/KatLantyss) for fixing bugs in Acer Swift Laptop.
