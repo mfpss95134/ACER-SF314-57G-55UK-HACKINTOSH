@@ -1,11 +1,13 @@
 # ACER-SF314-57G-55UK-HACKINTOSH
 
 ## Preliminary
-Hello visitors! This is a repository of building Hackintosh on Acer SF-314-57G-55UK.<br>If your model is same or similar(mainly icelake laptops form ACER) to mine, it's welcome for you to grab a copy of my EFI and make some modification to fit it into your device.<br>Please remember to replace the SMBIOS in config.plist with ones of your own.<br>Enjoy~
+Hello visitors! This is a repository of building Hackintosh on Acer SF-314-57G-55UK. If your model is same or similar(mainly icelake laptops form ACER) to mine, it's welcome for you to grab a copy of my EFI and make some modification to fit it into your device.<br>Please remember to replace the SMBIOS inside config.plist with ones of your own.<br>Enjoy~
+<br>
 <br>
 
 ## Disclaimer
 I am not responsible for bricked devices.<br>Some modification may compromise your hardware / software, please be aware of what you are doing.<br>Remeber to back up everything before applying any modification onto your device.
+<br>
 <br>
 
 ## Specifications
