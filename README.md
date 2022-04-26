@@ -36,7 +36,7 @@ Incorrect modification may brick you device, please be CAREFUL when operating.
   - It's unbootable without setting this to `Disabled`.
 - `Fast Boot: Disabled`
   - This item may lead to unstability.
-  - I suggest you to turn this OFF. Trust me.
+  - I suggest you turn this OFF. Trust me.
 - `VT-d: Disabled`
   - Dortania's guide suggests setting this to `Disabled`.
 - `SATA mode: AHCI`
