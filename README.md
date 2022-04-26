@@ -31,18 +31,25 @@ Most parts are working correctly, except the following.
 <br>
 
 ## Recommened BIOS settings / modifications
-- `Secure Boot: OFF`
+- `Secure Boot: Disabled`
+  - It's unbootable without setting this to disabled.
+- `Fast Boot: Disabled`
+  - This item may lead to unstability.
+  - I suggest you to turn this OFF. Trust me.
+- `VT-d: Disabled`
+  - Dortania's guide suggests this to be disabled.
 - `SATA mode: AHCI`
+  - It's unbootable without setting this to AHCI.
   - Boot into BIOS and switch to Main tab.
   - Press `Ctrl + S`, then the hidden item will show up.
   - Toggle the option.
-- `CFG Lock: OFF`
+- `CFG Lock: Disabled`
   - This is a hidden item in BIOS, so we need to change its corresponding value by **H2OUVE**.
   - Follow the instruction below.
   - Run `WDFInst.exe` as administrator, then run `H2OUVE-W-GUIx64.exe`.
   - Click on `File` -> `Load runtime` -> `Variable`, then locate to `0x43` in CpuSetup.
   - Change the default value from `0x1`(Enabled) to `0x0`(Disabled).<br>![image](https://raw.githubusercontent.com/mfpss95134/ACER-SF314-57G-55UK-HACKINTOSH/main/IMAGEs/CFG_LOCK.jpeg)
-- `Low Power S0 Idle Capability: OFF`
+- `Low Power S0 Idle Capability: Disabled`
   - This is item MUST be off to enable S3 sleep functionality.
   - This is a hidden item in BIOS, so we need to change its corresponding value by **H2OUVE**.
   - Follow the instruction below.
