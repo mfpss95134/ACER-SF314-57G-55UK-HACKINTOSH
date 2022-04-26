@@ -46,14 +46,14 @@ Incorrect modification may brick you device, please be CAREFUL when operating.
   - Toggle the option to `AHCI`.
 - `CFG Lock: Disabled`
   - This is a hidden item in BIOS, so we need to change its corresponding value by **H2OUVE**.
-  - Follow the instruction below.
+  - Boot into windows, then follow the instruction below.
   - Run `WDFInst.exe` as administrator, then run `H2OUVE-W-GUIx64.exe`.
   - Click on `File` -> `Load runtime` -> `Variable`, then locate to `0x43` in CpuSetup.
   - Change the default value from `0x1`(Enabled) to `0x0`(Disabled).<br><img src="https://raw.githubusercontent.com/mfpss95134/ACER-SF314-57G-55UK-HACKINTOSH/main/IMAGEs/CFG_LOCK.jpeg"  width="560">
 - `Low Power S0 Idle Capability: Disabled`
   - This is item MUST be off to enable S3 sleep functionality.
   - This is a hidden item in BIOS, so we need to change its corresponding value by **H2OUVE**.
-  - Follow the instruction below.
+  - Boot into windows, then follow the instruction below.
   - Run `WDFInst.exe` as administrator, then run `H2OUVE-W-GUIx64.exe`.
   - Click on `File` -> `Load runtime` -> `Variable`, then locate to `0x28` in Setup.
   - Change the default value from `0x1`(Enabled) to `0x0`(Disabled).<br><img src="https://raw.githubusercontent.com/mfpss95134/ACER-SF314-57G-55UK-HACKINTOSH/main/IMAGEs/S0_IDLE.jpeg"  width="560">
@@ -67,6 +67,7 @@ Incorrect modification may brick you device, please be CAREFUL when operating.
 <img src="https://raw.githubusercontent.com/mfpss95134/ACER-SF314-57G-55UK-HACKINTOSH/main/IMAGEs/04.jpg">
 <img src="https://raw.githubusercontent.com/mfpss95134/ACER-SF314-57G-55UK-HACKINTOSH/main/IMAGEs/05.jpg">
 <img src="https://raw.githubusercontent.com/mfpss95134/ACER-SF314-57G-55UK-HACKINTOSH/main/IMAGEs/06.jpg">
+<div align="left">
 <br>
 
 ## Reference
