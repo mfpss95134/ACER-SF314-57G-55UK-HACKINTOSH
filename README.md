@@ -17,7 +17,7 @@
 - macOS Monterey 12.0<br>(`AirportItlwm.kext` and `IntelBluetoothInjector.kext` need to be replaced on your own.)
 <br>
 
-## Known issues
+## Known Issues
 Most parts are working well, except the following.
 
 | Component | Status | Description |
@@ -30,7 +30,7 @@ Most parts are working well, except the following.
 | HDMI | Not tested | Not tested, but there is a high probability of not working. |
 <br>
 
-## Recommened BIOS settings / modifications
+## Recommened BIOS Settings / Modifications
 - `Secure Boot: Disabled`
   - It's unbootable without setting this to `Disabled`.
 - `Fast Boot: Disabled`
@@ -58,7 +58,7 @@ Most parts are working well, except the following.
   - Change the default value from `0x1`(Enabled) to `0x0`(Disabled).<br>![image](https://raw.githubusercontent.com/mfpss95134/ACER-SF314-57G-55UK-HACKINTOSH/main/IMAGEs/S0_IDLE.jpeg)`
 <br>
 
-## Screen shots
+## Screenshots
 <br>
 
 ## Reference
