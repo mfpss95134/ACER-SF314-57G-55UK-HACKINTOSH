@@ -23,8 +23,8 @@ Hello visitors! This is a repository of building Hackintosh on Acer SF-314-57G-5
 <br>
 
 ## Supported Versions
-- macOS Big Sur
-- macOS Monterey (itlwm needs to be replaced on your own.)
+- macOS Big Sur 11.6.5
+- macOS Monterey 12.0<br>(`AirportItlwm.kext` and `IntelBluetoothInjector.kext` need to be replaced on your own.)
 <br>
 
 ## Known issues
@@ -41,13 +41,24 @@ Most parts are working correctly, except the following.
 <br>
 
 ## Recommened BIOS settings / modifications
-Without these settings / modifications, your device may be unstable even become unbootable.
+> Without these settings / modifications, your device may be unstable even become unbootable.
+
 - `Secure Boot: OFF`
 - `SATA mode: AHCI`
-// Press `Ctrl + S` in BIOS to show hidden menu.
-
+  - Boot into BIOS and switch to Main tab.
+  - Press `Ctrl + S`, then the hidden item will show up.
+  - Toggle the option.
 - `CFG Lock: OFF`
+  - This is a hidden item in BIOS, so we need to change its corresponding value by **H2OUVE**.
+  - Follow the instruction below.
+  - Run `WDFInst.exe` as administrator, then run `H2OUVE-W-GUIx64.exe`.
+  - Change the default value from `0x1`(Enabled) to `0x0`(Disabled).
 - `Low Power S0 Idle Capability: OFF`
+  - This is item MUST be off to enable S3 sleep functionality.
+  - This is a hidden item in BIOS, so we need to change its corresponding value by **H2OUVE**.
+  - Follow the instruction below.
+  - Run `WDFInst.exe` as administrator, then run `H2OUVE-W-GUIx64.exe`.
+  - Change the default value from `0x1`(Enabled) to `0x0`(Disabled).
 <br>
 
 ## Screen shots
