@@ -31,6 +31,7 @@ Most parts are working well, except the following.
 <br>
 
 ## Recommened BIOS Settings / Modifications
+Incorrect modification may brick you device, please be CAREFUL when operating.
 - `Secure Boot: Disabled`
   - It's unbootable without setting this to `Disabled`.
 - `Fast Boot: Disabled`
