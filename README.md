@@ -6,7 +6,7 @@ Hello visitors! This is a repository of building Hackintosh on Acer SF-314-57G-5
 <br>
 
 ## Disclaimer
-I am not responsible for bricked devices. Dont blame on me for any malfunction.<br>Remeber to back up everything before applying any modification onto your device.<br>Some modification may compromise your hardware / software, please be aware of what you are doing.
+**I AM NOT RESPONSIBLE FOR BRICKED DEVICES. DON'T BLAME ON ME FOR ANY MALFUNCTION.**<br>**REMEBER TO BACK UP EVERYTHING BEFORE APPLYING ANY MODIFICATION ONTO YOUR DEVICE.**<br>**SOME MODIFICATION MAY COMPROMISE YOUR HARDWARE / SOFTWARE, PLEASE BE AWARE OF WHAT YOU ARE DOING.**
 <br>
 <br>
 
