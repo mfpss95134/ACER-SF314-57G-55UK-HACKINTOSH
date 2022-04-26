@@ -9,7 +9,7 @@
 | SSD | WD SN520 512GB |
 | Graphic Cards | Intel IceLake UHD Graphics<br>Nvidia GeForce MX350 |
 | WiFi / BT | Intel Wireless AX201 CNVi |
-| BIOS Version | 1.18 |
+| BIOS Version | v1.18 |
 <br>
 
 ## Supported Versions
@@ -60,12 +60,13 @@ Incorrect modification may brick you device, please be CAREFUL when operating.
 <br>
 
 ## Screenshots
-![image](https://raw.githubusercontent.com/mfpss95134/ACER-SF314-57G-55UK-HACKINTOSH/main/IMAGEs/01.jpg)
-![image](https://raw.githubusercontent.com/mfpss95134/ACER-SF314-57G-55UK-HACKINTOSH/main/IMAGEs/02.jpg)
-![image](https://raw.githubusercontent.com/mfpss95134/ACER-SF314-57G-55UK-HACKINTOSH/main/IMAGEs/03.jpg)
-![image](https://raw.githubusercontent.com/mfpss95134/ACER-SF314-57G-55UK-HACKINTOSH/main/IMAGEs/04.jpg)
-![image](https://raw.githubusercontent.com/mfpss95134/ACER-SF314-57G-55UK-HACKINTOSH/main/IMAGEs/05.jpg)
-![image](https://raw.githubusercontent.com/mfpss95134/ACER-SF314-57G-55UK-HACKINTOSH/main/IMAGEs/06.jpg)
+<div align="center">
+<img src="https://raw.githubusercontent.com/mfpss95134/ACER-SF314-57G-55UK-HACKINTOSH/main/IMAGEs/01.jpg">
+<img src="https://raw.githubusercontent.com/mfpss95134/ACER-SF314-57G-55UK-HACKINTOSH/main/IMAGEs/02.jpg">
+<img src="https://raw.githubusercontent.com/mfpss95134/ACER-SF314-57G-55UK-HACKINTOSH/main/IMAGEs/03.jpg">
+<img src="https://raw.githubusercontent.com/mfpss95134/ACER-SF314-57G-55UK-HACKINTOSH/main/IMAGEs/04.jpg">
+<img src="https://raw.githubusercontent.com/mfpss95134/ACER-SF314-57G-55UK-HACKINTOSH/main/IMAGEs/05.jpg">
+<img src="https://raw.githubusercontent.com/mfpss95134/ACER-SF314-57G-55UK-HACKINTOSH/main/IMAGEs/06.jpg">
 <br>
 
 ## Reference
