@@ -70,6 +70,8 @@ Most parts are working well, except the following.
 
 ## Credits
 - [**Apple**](https://www.apple.com/tw/) for the macOS.
-- [**Acidanthera**](https://github.com/acidanthera) for awesome kexts and first-class support for hackintosh enthusiasts.
 - [**Dortania**](https://github.com/dortania) for the great guides.
-- [**KatLantyss**](https://github.com/KatLantyss) for fixing bugs in Acer Swift Laptop.
+- [**Acidanthera**](https://github.com/acidanthera) for [AppleALC](https://github.com/acidanthera/AppleALC), [Lilu](https://github.com/acidanthera/Lilu), [OpenCore](https://github.com/acidanthera/OpenCorePkg), [VoodooPS2](https://github.com/acidanthera/VoodooPS2), [VirtualSMC](https://github.com/acidanthera/VirtualSMC), [WhateverGreen](https://github.com/acidanthera/WhateverGreen)
+- [**VoodooI2C Developer Team**](https://github.com/VoodooI2C) for [VoodooI2C](https://github.com/VoodooI2C/VoodooI2C)
+- [**OpenIntelWireless**](https://github.com/OpenIntelWireless) for [AirportItlwm](https://github.com/OpenIntelWireless/itlwm) and [IntelBluetoothFirmware](https://github.com/OpenIntelWireless/IntelBluetoothFirmware)
+- [**KatLantyss**](https://github.com/KatLantyss) for fixing bugs and testing.
