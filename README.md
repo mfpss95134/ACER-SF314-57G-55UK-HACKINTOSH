@@ -25,7 +25,7 @@ Most parts are working well, except the following.
 | AirDrop | Not working | Not compatible with intel wireless adapters. |
 | Nvidia GeForce MX350 | Not working | Not suppoerted by macOS. |
 | FingerPrint | Not working | Not suppoerted by macOS. |
-| Internal Mic | Not working | The internal mic adopts `Intel Smart Sound Technology` which is not supported by AppleALC due to brand-new structure.<br>There is temporarily no solution for this, same as 聯想小新13. |
+| Internal Mic | Not working | The internal mic adopts the `Intel Smart Sound Technology` which is not supported by AppleALC due to brand-new structure.<br>There is temporarily no solution for this, same as 聯想小新13. |
 | Thunderbolt 3 | Partial working | This is not fully tested because I have no TB3 devices by my side. <br><br>However, there is a known phenomenon that if not rebooting from windows, the system will crash when connecting external display through TB3 port. |
 | HDMI | Not tested | Not tested, but there is a high probability of not working. |
 <br>
@@ -33,14 +33,14 @@ Most parts are working well, except the following.
 ## Recommened BIOS Settings / Modifications
 Incorrect modification may brick you device, please be CAREFUL when operating.
 - `Secure Boot: Disabled`
-  - It's unbootable without setting this to `Disabled`.
+  - It will be unbootable without setting this to `Disabled`.
 - `Fast Boot: Disabled`
   - This item may lead to unstability.
-  - I suggest you turn this OFF. Trust me.
+  - You had better turn this OFF. Trust me.
 - `VT-d: Disabled`
-  - Dortania's guide suggests setting this to `Disabled`.
+  - Dortania's guide suggests us setting this to `Disabled`.
 - `SATA mode: AHCI`
-  - It's unbootable without setting this to AHCI.
+  - It will be unbootable without setting this to `AHCI`.
   - Boot into BIOS and switch to Main tab.
   - Press `Ctrl + S`, then the hidden item will show up.
   - Toggle the option to `AHCI`.
