@@ -35,7 +35,7 @@ Incorrect modification may brick you device, please be CAREFUL when operating.
 - `Secure Boot: Disabled`
   - It will be unbootable without setting this to `Disabled`.
 - `Fast Boot: Disabled`
-  - Sometimes, this item cause unstability.
+  - Sometimes, this item causes unstability.
   - You had better turn this OFF. Trust me.
 - `VT-d: Disabled`
   - Dortania's guide suggests us setting this to `Disabled`.
