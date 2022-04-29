@@ -30,7 +30,7 @@ Most parts are working well, except the following.
 | HDMI | Not tested | Not tested, but there is a high probability of not working. |
 <br>
 
-## Recommeneded BIOS Settings / Modifications
+## Recommended BIOS Settings / Modifications
 Incorrect modification may brick you device, please be CAREFUL when operating.
 - `Secure Boot: Disabled`
   - It will be unbootable without setting this to `Disabled`.
