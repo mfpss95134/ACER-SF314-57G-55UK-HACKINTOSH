@@ -7,7 +7,8 @@
 | CPU | Intel Core i5-1035G1 |
 | RAM | 8GB LPDDR4X 2666Mhz |
 | SSD | WD SN520 512GB |
-| GPU | Intel IceLake UHD Graphics<br>Nvidia GeForce MX350 |
+| iGPU | Intel IceLake UHD Graphics |
+| dGPU | Nvidia GeForce MX350 |
 | WiFi / BT | Intel Wireless AX201 CNVi |
 | BIOS version | v1.18 |
 <br>
