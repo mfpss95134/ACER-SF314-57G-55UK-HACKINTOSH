@@ -1,4 +1,4 @@
-# ACER-SF314-57G-55UK-HACKINTOSH黃博修
+# ACER-SF314-57G-55UK-HACKINTOSH
 
 ## Specifications
 | Component | Details |
