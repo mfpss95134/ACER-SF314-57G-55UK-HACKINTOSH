@@ -14,7 +14,7 @@
 <br>
 
 ## Supported Versions
-- macOS Big Sur 11.7
+- macOS Big Sur 11.7.1
 - macOS Monterey 12.0<br>(`AirportItlwm.kext` and `IntelBluetoothInjector.kext` need to be replaced on your own.)
 <br>
 
