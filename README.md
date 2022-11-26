@@ -39,7 +39,7 @@ Incorrect modification may brick you device, please be CAREFUL when operating.
   - Sometimes, this item causes unstability.
   - You had better turn this OFF. Trust me.
 - `VT-d: Disabled`
-  - Dortania's guide suggests us setting this to `Disabled`.
+  - Dortania's guide suggests you set this to `Disabled`.
 - `SATA mode: AHCI`
   - It will be unbootable without setting this to `AHCI`.
   - Boot into BIOS and switch to Main tab.
